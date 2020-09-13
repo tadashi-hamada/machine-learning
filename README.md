@@ -1,2 +1,2 @@
 # machine-learning
-solution to andrew ng in python
+machine learning models
